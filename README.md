@@ -62,6 +62,13 @@ python app.main
 
 L'application sera accessible à l'adresse http://localhost:8080.
 
+## Screenshots
+
+<div style="display: flex; flex-direction: row;">
+  <img src="images/screenshot_01.png" alt="Screenshot 1" style="margin-right: 10px;" width="45%">
+  <img src="images/screenshot_02.png" alt="Screenshot 2" width="45%">
+</div>
+
 ## Licence
 
 Ce projet est sous licence MIT. Pour plus de détails, veuillez consulter le fichier [LICENSE](LICENSE).
