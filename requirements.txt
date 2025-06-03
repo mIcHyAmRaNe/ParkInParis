@@ -1,0 +1,7 @@
+requests
+flask
+folium
+geopy
+pymongo
+neo4j
+python-dotenv
