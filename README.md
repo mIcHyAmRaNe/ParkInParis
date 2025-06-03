@@ -42,6 +42,18 @@ Utiles pour proposer une place la plus proche à un utilisateur
 - Flask
 - Folium
 - Geopy
+- Variables environnement
+
+```
+# .env 
+# Saisir les variables d'environnement nécessaires pour l'application.
+MONGO_URI=mongodb://localhost:27017
+DB_NAME=paris_parking
+NEO4J_URI=bolt://localhost:7687
+NEO4J_DATABASE=parisparking
+NEO4J_USER=neo4j
+NEO4J_PASSWORD=
+```
 
 ## Chargez les données dans MongoDB et Neo4j :
 
